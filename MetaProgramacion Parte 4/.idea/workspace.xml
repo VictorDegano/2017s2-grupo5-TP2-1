@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a52ce5-08b9-4314-874c-8bf663bd7e2c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Registrar_Cambios__MetaProgramacion.coverage" NAME="Registrar Cambios: MetaProgramacion Coverage Results" MODIFIED="1508170075848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Conocen_sus_cambios_Al_realizar_una_transaccion_se_le_puede_preguntar_al_objeto_sus_cambios__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Conocen sus cambios Al realizar una transaccion se le puede preguntar al objeto sus cambios: MetaProgramacion Coverage Results" MODIFIED="1508791397173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transaccion_Exitosa_Se_le_dice_que_cumpla_años__cumple_años__MetaProgramacion.coverage" NAME="Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion Coverage Results" MODIFIED="1508702329567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Run_spec__Persona_spec___MetaProgramacion.coverage" NAME="Run spec 'Persona_spec': MetaProgramacion Coverage Results" MODIFIED="1509550178933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Run_spec__Persona_spec___MetaProgramacion__1_.coverage" NAME="Run spec 'Persona_spec': MetaProgramacion (1) Coverage Results" MODIFIED="1508799672430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@transactional.coverage" NAME="transactional Coverage Results" MODIFIED="1508200625569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transactor.coverage" NAME="Transactor Coverage Results" MODIFIED="1508764897903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@IRB_console__MetaProgramacion.coverage" NAME="IRB console: MetaProgramacion Coverage Results" MODIFIED="1508709344937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Transaccion_Exitosa__MetaProgramacion.coverage" NAME="Transaccion Exitosa: MetaProgramacion Coverage Results" MODIFIED="1507417714987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Registrar_Cambios_Al_realizar_una_transaccion_sobre_varios_objetos_se_registran_los_cambios_sobres_los__objetos__MetaProgramacion.coverage" NAME="Registrar Cambios Al realizar una transaccion sobre varios objetos se registran los cambios sobres los  objetos: MetaProgramacion Coverage Results" MODIFIED="1508546685882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Transactor.coverage" NAME="Transactor Coverage Results" MODIFIED="1507490284823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_deslockear_los_objetos_Si_se_lockea_el_objeto_actual__y_se_lo_deslockea_durante_la_transaccion_se_puede_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear/deslockear los objetos Si se lockea el objeto actual, y se lo deslockea durante la transaccion se puede modificar: MetaProgramacion Coverage Results" MODIFIED="1508878218992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@IRB_console__MetaProgramacion.coverage" NAME="IRB console: MetaProgramacion Coverage Results" MODIFIED="1506984874436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Roolback_Automatico_ante_un_error_Se_le_dice_a_2_personas_que_cumpla_años_y_exploten__no_suman_años__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Roolback Automatico ante un error Se le dice a 2 personas que cumpla años y exploten, no suman años: MetaProgramacion Coverage Results" MODIFIED="1508799662253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Roolback_Automatico_ante_un_error_Se_le_dice_que_cumpla_años__cumple_años__explota_y_no_suma_años__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Roolback Automatico ante un error Se le dice que cumpla años, cumple años, explota y no suma años: MetaProgramacion Coverage Results" MODIFIED="1508870911156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Rollback_Manual__MetaProgramacion.coverage" NAME="Rollback Manual: MetaProgramacion Coverage Results" MODIFIED="1508173385855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Se_puede_obtener_la_transaccion_actual_Al_realizar_una_transaccion_se_le_puede_preguntar_al_objeto_su_transaccion_actual__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede obtener la transaccion actual Al realizar una transaccion se le puede preguntar al objeto su transaccion actual: MetaProgramacion Coverage Results" MODIFIED="1508794098023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transaccion.coverage" NAME="Transaccion Coverage Results" MODIFIED="1508790036610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_deslockear_los_objetos_Si_se_lockea_el_objeto_actual__no_se_puede_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear/deslockear los objetos Si se lockea el objeto actual, no se puede modificar: MetaProgramacion Coverage Results" MODIFIED="1508878293396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_deslockear_los_objetos_Si_se_lockea_la_transaccion_actual_y_luego_se_la_deslockea__los_objetos_se_pueden_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear/deslockear los objetos Si se lockea la transaccion actual y luego se la deslockea, los objetos se pueden modificar: MetaProgramacion Coverage Results" MODIFIED="1508877585846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Transaccion_Exitosa_Se_le_dice_que_cumpla_años__cumple_años__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion Coverage Results" MODIFIED="1508790370724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transaccion_Exitosa_Se_tienen_a_3_personas_y_se_le_dice_a_dos_personas_que_cumplan_años__solo_dos_cumplen_años__MetaProgramacion.coverage" NAME="Transaccion Exitosa Se tienen a 3 personas y se le dice a dos personas que cumplan años, solo dos cumplen años: MetaProgramacion Coverage Results" MODIFIED="1508702017998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transactional.coverage" NAME="Transactional Coverage Results" MODIFIED="1508786372599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Rollback_Manual_Se_le_dice_que_cumpla_años_y_luego_quiere_revertirse__se_puede_revertir_y_tambien_volver_a_hacer__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Rollback Manual Se le dice que cumpla años y luego quiere revertirse, se puede revertir y tambien volver a hacer: MetaProgramacion Coverage Results" MODIFIED="1508709103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_los_objetos_Si_se_lockea_todos_los_objetos__no_se_pueden_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear los objetos Si se lockea todos los objetos, no se pueden modificar: MetaProgramacion Coverage Results" MODIFIED="1508877223234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_4@Run_spec__Persona_spec___MetaProgramacion__1_.coverage" NAME="Run spec 'Persona_spec': MetaProgramacion (1) Coverage Results" MODIFIED="1509561472991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Roolback_Automatico_ante_un_error_Se_le_dice_que_cumpla_años__cumple_años__explota_y_no_suma_años__MetaProgramacion.coverage" NAME="Roolback Automatico ante un error Se le dice que cumpla años, cumple años, explota y no suma años: MetaProgramacion Coverage Results" MODIFIED="1508698617624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transaccion_Exitosa_Se_le_dice_a_dos_personas_que_cumplan_años__cumplen_años__MetaProgramacion.coverage" NAME="Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años: MetaProgramacion Coverage Results" MODIFIED="1508702022760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Registrar_Cambios_Al_realizar_una_transaccion_se_registran_los_cambios_sobre_el_objeto__MetaProgramacion.coverage" NAME="Registrar Cambios Al realizar una transaccion se registran los cambios sobre el objeto: MetaProgramacion Coverage Results" MODIFIED="1508546622734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Transaccion_Exitosa_Se_le_dice_que_cumpla_años__cumple_años__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion Coverage Results" MODIFIED="1508879091747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Registrar_Cambios_Al_realizar_un_mensaje_se_corrobora_que_se_registraron_los_cambios_sobre_el_objeto__MetaProgramacion.coverage" NAME="Registrar Cambios Al realizar un mensaje se corrobora que se registraron los cambios sobre el objeto: MetaProgramacion Coverage Results" MODIFIED="1508544896802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Run_spec__Persona_spec___MetaProgramacion.coverage" NAME="Run spec 'Persona_spec': MetaProgramacion Coverage Results" MODIFIED="1508170400484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_deslockear_los_objetos_Si_se_lockea_todos_los_objetos__no_se_pueden_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear/deslockear los objetos Si se lockea todos los objetos, no se pueden modificar: MetaProgramacion Coverage Results" MODIFIED="1508878338440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Registrar_Cambios_Al_realizar_una_transaccion_se_registran_los_cambios_sobre_el_objeto__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Registrar Cambios Al realizar una transaccion se registran los cambios sobre el objeto: MetaProgramacion Coverage Results" MODIFIED="1508790803296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Multithreading_Si_se_corren_dos_threads_sobre_el_mismo_objeto_no_se_modifica_el_objeto_hasta_que_terminan__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion Coverage Results" MODIFIED="1509549714174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Se_puede_lockear_los_objetos_Si_se_lockea_el_objeto_actual__no_se_puede_modificar__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Se puede lockear los objetos Si se lockea el objeto actual, no se puede modificar: MetaProgramacion Coverage Results" MODIFIED="1508876904144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Transaccion_Exitosa__MetaProgramacion.coverage" NAME="Transaccion Exitosa: MetaProgramacion Coverage Results" MODIFIED="1508702364727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Rollback_Manual_Se_le_dice_que_cumpla_años_y_luego_quiere_revertirse__se_puede_revertir_y_tambien_volver_a_hacer__MetaProgramacion.coverage" NAME="Rollback Manual Se le dice que cumpla años y luego quiere revertirse, se puede revertir y tambien volver a hacer: MetaProgramacion Coverage Results" MODIFIED="1508698754596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Roolback_Automatico_ante_un_error_Se_le_dice_que_cumpla_años__cumple_años__explota_y_no_suma_años__MetaProgramacion.coverage" NAME="Roolback Automatico ante un error Se le dice que cumpla años, cumple años, explota y no suma años: MetaProgramacion Coverage Results" MODIFIED="1507417721958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion@Roolback_Automatico_ante_un_error__MetaProgramacion.coverage" NAME="Roolback Automatico ante un error: MetaProgramacion Coverage Results" MODIFIED="1507417805169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Transaccion.coverage" NAME="Transaccion Coverage Results" MODIFIED="1508855591607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_2@Test_TP_MetaProgramacion_Registrar_Cambios_Al_realizar_una_transaccion_sobre_varios_objetos_se_registran_los_cambios_sobres_los__objetos__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Registrar Cambios Al realizar una transaccion sobre varios objetos se registran los cambios sobres los  objetos: MetaProgramacion Coverage Results" MODIFIED="1508787377612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+    <SUITE FILE_PATH="coverage/MetaProgramacion_Parte_3@Test_TP_MetaProgramacion_Transaccion_Exitosa_Se_le_dice_a_dos_personas_que_cumplan_años__cumplen_años__MetaProgramacion.coverage" NAME="Test TP MetaProgramacion Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años: MetaProgramacion Coverage Results" MODIFIED="1508878950341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" MODULE_NAME="MetaProgramacion" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="RSpec Test Template" />
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>should</find>
+    </findStrings>
+    <dirStrings>
+      <dir>K:\RubyMine\RubymineProjects\MetaProgramacion Parte 2</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Clases/Transactor.rb" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Perona.rb" />
+        <option value="$PROJECT_DIR$/transactor.rb" />
+        <option value="$PROJECT_DIR$/Gemfile.rb" />
+        <option value="$PROJECT_DIR$/Clases/object.rb" />
+        <option value="$PROJECT_DIR$/Clases/cambios.rb" />
+        <option value="$PROJECT_DIR$/Clases/transactional.rb" />
+        <option value="$PROJECT_DIR$/Clases/Persona.rb" />
+        <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Clases/Modelo/Transaccion.rb" />
+        <option value="$PROJECT_DIR$/Clases/Ttransactional.rb" />
+        <option value="$PROJECT_DIR$/Clases/Object.rb" />
+        <option value="$PROJECT_DIR$/Clases/RepositorioDeCambios.rb" />
+        <option value="$PROJECT_DIR$/Clases/cambios_objeto.rb" />
+        <option value="$PROJECT_DIR$/Clases/Modelo/Persona.rb" />
+        <option value="$PROJECT_DIR$/Clases/Modelo/ObjectLockedError.rb" />
+        <option value="$PROJECT_DIR$/Clases/CambiosObjeto.rb" />
+        <option value="$PROJECT_DIR$/Clases/CambiosTransaccion.rb" />
+        <option value="$PROJECT_DIR$/Clases/TransactionDummyObject.rb" />
+        <option value="$PROJECT_DIR$/Clases/MutableDummyObject.rb" />
+        <option value="$PROJECT_DIR$/Clases/Snapshot.rb" />
+        <option value="$PROJECT_DIR$/Clases/Lockeable.rb" />
+        <option value="$PROJECT_DIR$/Clases/Transaccion.rb" />
+        <option value="$PROJECT_DIR$/Clases/Transactional.rb" />
+        <option value="$PROJECT_DIR$/Clases/Transactor.rb" />
+        <option value="$PROJECT_DIR$/Test/Persona_spec.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-30" />
+    <option name="y" value="215" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Naming conventionsRuby</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Naming conventionsRuby</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MetaProgramacion Parte 4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaProgramacion Parte 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaProgramacion Parte 4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaProgramacion Parte 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaProgramacion Parte 4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaProgramacion Parte 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 2\Clases" />
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 2\Clases\Modelo" />
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 2\Clases" />
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 2\Clases\Modelo" />
+      <recent name="K:\RubyMine\RubymineProjects\MetaProgramacion\Clases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="RSpec.Run spec 'Persona_spec': MetaProgramacion (1)">
+    <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="MetaProgramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/Test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/Test/Persona_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="Run spec 'Persona_spec': MetaProgramacion" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="MetaProgramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../MetaProgramacion Parte 4/Test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 4\Test\Persona_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="MetaProgramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../MetaProgramacion Parte 4/Test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 4\Test\Persona_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="Test TP MetaProgramacion Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años: MetaProgramacion" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="MetaProgramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../MetaProgramacion Parte 4/Test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 4\Test\Persona_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Test TP MetaProgramacion Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="MetaProgramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../MetaProgramacion Parte 4/Test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="K:\RubyMine\RubymineProjects\MetaProgramacion Parte 4\Test\Persona_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'Persona_spec': MetaProgramacion" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años: MetaProgramacion" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'Persona_spec': MetaProgramacion (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'Persona_spec': MetaProgramacion (1)" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'Persona_spec': MetaProgramacion" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Transaccion Exitosa Se le dice que cumpla años, cumple años: MetaProgramacion" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Test TP MetaProgramacion Transaccion Exitosa Se le dice a dos personas que cumplan años, cumplen años: MetaProgramacion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a52ce5-08b9-4314-874c-8bf663bd7e2c" name="Default" comment="" />
+      <created>1506950598743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506950598743</updated>
+      <workItem from="1506950600704" duration="593000" />
+      <workItem from="1506984450858" duration="1317000" />
+      <workItem from="1507412429009" duration="7778000" />
+      <workItem from="1507481730388" duration="8710000" />
+      <workItem from="1508168066733" duration="2643000" />
+      <workItem from="1508171080607" duration="30951000" />
+      <workItem from="1508331561400" duration="11778000" />
+      <workItem from="1508361111612" duration="2279000" />
+      <workItem from="1508364245298" duration="470000" />
+      <workItem from="1508366510306" duration="3962000" />
+      <workItem from="1508377024926" duration="601000" />
+      <workItem from="1508381045491" duration="1992000" />
+      <workItem from="1508426141752" duration="3823000" />
+      <workItem from="1508434141284" duration="1625000" />
+      <workItem from="1508460087261" duration="2456000" />
+      <workItem from="1508501548945" duration="496000" />
+      <workItem from="1508505439221" duration="8901000" />
+      <workItem from="1508526307259" duration="9311000" />
+      <workItem from="1508538085975" duration="8546000" />
+      <workItem from="1508546825924" duration="18000" />
+      <workItem from="1508546865557" duration="227000" />
+      <workItem from="1508547097297" duration="32000" />
+      <workItem from="1508694769898" duration="14101000" />
+      <workItem from="1508713526764" duration="220000" />
+      <workItem from="1508715259415" duration="5246000" />
+      <workItem from="1508760618593" duration="291000" />
+      <workItem from="1508762410395" duration="23490000" />
+      <workItem from="1508798972913" duration="715000" />
+      <workItem from="1508800075563" duration="5371000" />
+      <workItem from="1508846995766" duration="22797000" />
+      <workItem from="1508966237345" duration="899000" />
+      <workItem from="1509481771188" duration="3241000" />
+      <workItem from="1509490194150" duration="3905000" />
+      <workItem from="1509534365614" duration="1159000" />
+      <workItem from="1509537152583" duration="12056000" />
+      <workItem from="1509554888244" duration="847000" />
+      <workItem from="1509555848848" duration="4845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 14h 11m 31s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 14h 19m 10s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 15h 03m 21s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 15h 27m 09s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 15h 30m 39s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 15h 31m 58s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Persona_spec'__MetaProgramacion_(1) - 2017.11.01 at 15h 38m 02s.xml">
+      <configuration name="Run spec 'Persona_spec': MetaProgramacion (1)" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test_TP_MetaProgramacion_Multithreading_Si_se_corren_dos_threads_sobre_el_mismo_objeto_no_se_modifica_el_objeto_hasta_que_terminan__MetaProgramacion - 2017.11.01 at 12h 21m 15s.xml">
+      <configuration name="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test_TP_MetaProgramacion_Multithreading_Si_se_corren_dos_threads_sobre_el_mismo_objeto_no_se_modifica_el_objeto_hasta_que_terminan__MetaProgramacion - 2017.11.01 at 12h 21m 51s.xml">
+      <configuration name="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Test_TP_MetaProgramacion_Multithreading_Si_se_corren_dos_threads_sobre_el_mismo_objeto_no_se_modifica_el_objeto_hasta_que_terminan__MetaProgramacion - 2017.11.01 at 12h 22m 03s.xml">
+      <configuration name="Test TP MetaProgramacion Multithreading Si se corren dos threads sobre el mismo objeto no se modifica el objeto hasta que terminan: MetaProgramacion" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207692000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2218845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39811912" sideWeight="0.50303954" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4919473" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4924357" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36677116" sideWeight="0.4969605" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="307" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../MetaProgramacion Parte 1/Clases/Transactor.rb" />
+    <entry file="file://$PROJECT_DIR$/Clases/Transactor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Ruby 2.4.1-2 32bit/lib/ruby/2.4.0/delegate.rb" />
+    <entry file="file://$PROJECT_DIR$/../../Ruby 2.4.1-2 32bit/lib/ruby/2.4.0/rdoc/context.rb" />
+    <entry file="file://$PROJECT_DIR$/Rakefile" />
+    <entry file="file://$PROJECT_DIR$/../../Ruby 2.4.1-2 32bit/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb" />
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta4/lib/ruby-debug-ide.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rb/testing/patch/bdd/teamcity/spec/runner/formatter/teamcity/formatter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="696" column="0" lean-forward="false" selection-start-line="696" selection-start-column="0" selection-end-line="696" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/expectations/handler.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/matchers/built_in/raise_error.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/example_group.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/dsl.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/world.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/runner.rb" />
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/example.rb" />
+    <entry file="file://D:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/hooks.rb" />
+    <entry file="file://$PROJECT_DIR$/Clases/RepositorioDeCambios.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="743" column="8" lean-forward="false" selection-start-line="743" selection-start-column="8" selection-end-line="743" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/world.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/dsl.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/thread.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17881">
+          <caret line="148" column="6" lean-forward="false" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-support-3.6.0/lib/rspec/support.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/basic_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="256" column="8" lean-forward="false" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/exception.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="80" column="6" lean-forward="false" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1299">
+          <caret line="1052" column="8" lean-forward="false" selection-start-line="1052" selection-start-column="8" selection-end-line="1052" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/matchers/built_in/raise_error.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/runner.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/reporter.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/configuration.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/example_group.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib/rspec/core/example.rb" />
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-support-3.6.0/lib/rspec/support.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="244" column="8" lean-forward="false" selection-start-line="244" selection-start-column="8" selection-end-line="244" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Modelo/ObjectLockedError.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/integer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/expectations/syntax.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/matchers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="549" column="0" lean-forward="false" selection-start-line="549" selection-start-column="0" selection-end-line="549" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://K:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib/rspec/expectations/expectation_target.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/kernel.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="1761" column="1" lean-forward="false" selection-start-line="1761" selection-start-column="1" selection-end-line="1761" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Modelo/Persona.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/MutableDummyObject.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/CambiosObjeto.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/CambiosTransaccion.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Snapshot.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Lockeable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Transaccion.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Transactor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Transactional.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="31" lean-forward="true" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Persona_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
